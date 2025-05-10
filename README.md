@@ -1,13 +1,13 @@
-#Stile Hackaton - Stefano Pizzolato
+# Stile Hackaton - Stefano Pizzolato
 
 This is the repo for my submission for the Interactive Engineer coding challenge at Stile.
 The goal was to show a simulation about natural selection and random variation.
 
-##The concept
+## The concept
 You control the environment of a population of guppy fish in a lake.
 Depending on environmental factors certain guppy fish will be more likely to survive the predators, and other guppies will have a better chance of reproducing.
 
-##Guppies everywhere!
+## Guppies everywhere!
 The guppies in the simulation have the following characteristics: **Size**(big or small) and **Color**(bright or dull)
 **Size**:
 - Big: faster than small guppies, can escape predators more easily, but in high vegetation it's spotted more than small guppies
@@ -18,13 +18,13 @@ Size doesn't matter for the chance of mating
 - Bright: have a higher chance of getting spotted in high vegetation, but in low vegetation they are spotted just as easily.
 They are more likely to reproduce.
 
-##Controls
+## Controls
 The user has control over:
 - Number of Predators
 - Density of Vegetation
 - Starting the turn
 
-##The turn
+## The turn
 The turn is divided into:
 - **User input**: the user controls the environmental variables
 - **Predators**: predators arrive (as many as indicated by the user), and the fish depending on their characteristics survives or not. The number of predators is a multiplier, in the sense that each guppy will have to survive each predator.
