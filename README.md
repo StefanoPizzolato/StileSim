@@ -30,10 +30,28 @@ The turn is divided into:
 - **Predators**: predators arrive (as many as indicated by the user), and the fish depending on their characteristics survives or not. The number of predators is a multiplier, in the sense that each guppy will have to survive each predator.
 - **Mating**: for the sake of simplicity, a guppy will not find a mate, rather it will have a chance or producing another guppy. HERE Random variation can occur, meaning that a small guppy can produce a gib guppy, a dull guppy can produce a bright guppy, and viceversa.
 
+## Known bugs and refinements
+- UI needs to be disabled when turn is Predator or Mating
+- survival and reproduction chances probably need fine-tuning
+- it would be cute to pair up guppies for reproduction, show them getting together and then new guppies spawn
+- it could be nice to have more animations in general and more UI that clearly shows the turn
+- coding-wise, we probably need to 
+-- check all console.logs
+-- know Phaser a bit better so to use some of its paradigms better (this/scene, how to use it properly)
+
+## Use of ChatGPT
+I used chat GPT for this game for a few tasks:
+- asset creation (I then modified them on photoshop, especially the bg seams)
+- create a template for an object class in Phaser 3
+- how to implement dom elements (sliders and button)
+
 ## Some possible questions and goals
 - With high vegetation and lots of predators, which guppies do you expect to survive the most?
 - If there are no predators around what do you expect to see?
 - If you are left with only small dull-coloured guppies and there are no predators, what can you observe after a few turns of mating and why does that happen?
+
+
+
 
 
 
