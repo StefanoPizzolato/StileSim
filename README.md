@@ -45,7 +45,12 @@ I used chat GPT for this game for a few tasks:
 - create a template for an object class in Phaser 3
 - how to implement dom elements (sliders and button)
 
-## Some possible questions and goals
+## The live coding video
+I have taped myself live-coding in this embarassing video - I've never done it before, so a part of my mind was focused on "what should I say", instead of just coding, which probably made both efforts half-good. You'll hear me babbling a lot, but I promise I don't usually talk to myself!
+[link to the live-coding video](https://youtu.be/S134PkrwMUo)
+
+
+## Some possible questions and goals for the unit
 - With high vegetation and lots of predators, which guppies do you expect to survive the most?
 - If there are no predators around what do you expect to see?
 - If you are left with only small dull-coloured guppies and there are no predators, what can you observe after a few turns of mating and why does that happen?
