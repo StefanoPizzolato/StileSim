@@ -60,6 +60,12 @@ I used chat GPT for this game for a few tasks:
 I have taped myself live-coding in this embarassing video - I've never done it before, so a part of my mind was focused on "what should I say", instead of just coding, which probably made both efforts half-good. You'll hear me babbling a lot, but I promise I don't usually talk to myself!
 [link to the live-coding video](https://youtu.be/S134PkrwMUo)
 
+## How to run
+
+Phaser need a server to serve files.
+I am personally using Python's built in server by going to the game's root folder and launching `python -m http.server 8000`, it will be served on 127.0.0.1:8000
+
+
 
 ## Some possible questions and goals for the unit
 
