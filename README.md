@@ -12,13 +12,13 @@ Depending on environmental factors certain guppy fish will be more likely to sur
 
 The guppies in the simulation have the following characteristics: **Size**(big or small) and **Color**(bright or dull)
 
-**Size**:
+###Size
 
 - Big: faster than small guppies, can escape predators more easily, but in high vegetation it's spotted more than small guppies
 - Small: slower than big guppies, but it hides better in high vegetation
 Size doesn't matter for the chance of mating
 
-**Colour**:
+###Colour
 
 - Dull: have a higher chance of camuflaging in high vegetation, but in low vegetation they are spotted just as easily. They are also less likely to reproduce.
 - Bright: have a higher chance of getting spotted in high vegetation, but in low vegetation they are spotted just as easily.
